@@ -7,7 +7,7 @@ Simple competitive discord bot for playing 5vs5 and 2vs2
 3. Edit BotForCompetitive.py
 4. done
 
-#Commands
+# Commands
 - !start = Simple menu
 
 # what does it look like:
